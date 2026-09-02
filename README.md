@@ -31,7 +31,7 @@ That's it — the plugin auto-connects to your workspace. Ask your assistant:
 
 | Plugin | Install | What it does |
 |---|---|---|
-| **[AI Receptionist Manager](plugins/receptionist/)** | `receptionist@enhanced-rentals` | Teach your AI receptionist new facts and keep its knowledge base accurate — amenities, parking, WiFi, check-in times, house rules, local tips. |
+| **[AI Receptionist Manager](plugins/receptionist/)** | `receptionist@enhanced-rentals` | Find what your AI receptionist is missing from real guest calls, teach it new facts, and keep its knowledge base accurate — amenities, parking, WiFi, check-in times, house rules, local tips. |
 | _More coming_ | | We add plugins over time. ⭐ Star this repo to follow along. |
 
 ---

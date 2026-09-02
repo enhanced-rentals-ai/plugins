@@ -26,17 +26,21 @@ To keep it set, add that line to your `~/.zshrc` or `~/.bashrc`.
 
 Just say what you want:
 
+- *"What is my receptionist missing?"* → scans recent guest calls for questions it
+  couldn't answer and shows you the gaps
 - *"What does my receptionist know about parking?"*
 - *"Add: there's a fridge in every room."*
 - *"It says we have coffee in every room — only the suites do. Fix it."*
 
-Or run the guided agent: **`receptionist-manager`** — it walks you through reviewing and
-updating what your receptionist tells guests.
+Or run the guided agent: **`receptionist-manager`** — it walks you from *finding* gaps to
+*fixing* them.
 
 ## What's included
 
+- **Skill `find-knowledge-gaps`** — mine real guest calls and chats for questions the
+  receptionist couldn't answer, and turn the genuine gaps into fixes.
 - **Skill `edit-your-kb`** — add, correct, and search knowledge-base facts.
-- **Agent `receptionist-manager`** — a guided helper for keeping the receptionist accurate.
+- **Agent `receptionist-manager`** — a guided helper that ties finding and fixing together.
 - **Auto-connected MCP** — no manual setup beyond your token.
 
 ## What it won't touch
