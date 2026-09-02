@@ -9,10 +9,10 @@ wants and follow its `SKILL.md` exactly — it is the source of truth.
 
 Skills available today:
 
-- **[`find-knowledge-gaps`](plugins/receptionist/skills/find-knowledge-gaps/SKILL.md)** —
+- **[`find-knowledge-gaps`](plugins/atlas/skills/find-knowledge-gaps/SKILL.md)** —
   mine real guest calls and chats (over MCP) for questions the receptionist couldn't
   answer, classify knowledge gaps vs behavior issues, and turn the gaps into fixes.
-- **[`edit-your-kb`](plugins/receptionist/skills/edit-your-kb/SKILL.md)** — add, correct,
+- **[`edit-your-kb`](plugins/atlas/skills/edit-your-kb/SKILL.md)** — add, correct,
   and search knowledge-base facts for the AI receptionist (amenities, parking, WiFi,
   check-in/out times, house rules, local tips).
 

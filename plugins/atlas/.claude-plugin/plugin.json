@@ -1,0 +1,11 @@
+{
+  "name": "atlas",
+  "displayName": "Atlas",
+  "version": "0.2.0",
+  "description": "Atlas — your Enhanced Rentals AI colleague. Operates your workspace over MCP: finds what your AI receptionist is missing from real guest calls, keeps its knowledge base accurate, and helps you stay on top of your guests. More abilities land over time.",
+  "author": { "name": "Enhanced Rentals", "url": "https://enhancedrentals.com" },
+  "homepage": "https://github.com/enhanced-rentals-ai/plugins#atlas",
+  "repository": "https://github.com/enhanced-rentals-ai/plugins",
+  "license": "MIT",
+  "keywords": ["enhanced-rentals", "atlas", "ai-colleague", "hospitality", "str", "operations"]
+}

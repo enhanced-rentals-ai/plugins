@@ -13,7 +13,7 @@ want, and you're set.
 
 ```
 /plugin marketplace add enhanced-rentals-ai/plugins
-/plugin install receptionist@enhanced-rentals
+/plugin install atlas@enhanced-rentals
 ```
 
 Then set your workspace token once (ask your Enhanced Rentals contact for it):
@@ -22,8 +22,8 @@ Then set your workspace token once (ask your Enhanced Rentals contact for it):
 export ENHANCED_RENTALS_TOKEN=your_token_here
 ```
 
-That's it — the plugin auto-connects to your workspace. Ask your assistant:
-*"What does my receptionist know about parking?"*
+That's it — the plugin auto-connects to your workspace. Ask Atlas:
+*"What is my receptionist missing?"*
 
 ---
 
@@ -31,7 +31,7 @@ That's it — the plugin auto-connects to your workspace. Ask your assistant:
 
 | Plugin | Install | What it does |
 |---|---|---|
-| **[AI Receptionist Manager](plugins/receptionist/)** | `receptionist@enhanced-rentals` | Find what your AI receptionist is missing from real guest calls, teach it new facts, and keep its knowledge base accurate — amenities, parking, WiFi, check-in times, house rules, local tips. |
+| **[Atlas](plugins/atlas/)** | `atlas@enhanced-rentals` | Your AI colleague for the Enhanced Rentals platform — finds what your AI receptionist is missing from real guest calls, teaches it new facts, and keeps its knowledge base accurate. More abilities land over time. |
 | _More coming_ | | We add plugins over time. ⭐ Star this repo to follow along. |
 
 ---

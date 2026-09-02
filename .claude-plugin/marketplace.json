@@ -8,16 +8,16 @@
   "description": "Self-serve Claude Code plugins for Enhanced Rentals customers — manage your AI receptionist and workspace yourself, in plain English.",
   "plugins": [
     {
-      "name": "receptionist",
-      "source": "./plugins/receptionist",
-      "displayName": "AI Receptionist Manager",
-      "description": "Find what your AI receptionist is missing from real guest calls, teach it new facts, and keep its knowledge base accurate — amenities, parking, WiFi, check-in times, house rules, local tips.",
+      "name": "atlas",
+      "source": "./plugins/atlas",
+      "displayName": "Atlas",
+      "description": "Your Enhanced Rentals AI colleague. Operates your workspace over MCP — finds what your AI receptionist is missing from real guest calls, keeps its knowledge base accurate, and helps you stay on top of your guests. More abilities land over time.",
       "version": "0.2.0",
       "author": { "name": "Enhanced Rentals" },
       "homepage": "https://github.com/enhanced-rentals-ai/plugins",
       "repository": "https://github.com/enhanced-rentals-ai/plugins",
       "license": "MIT",
-      "keywords": ["enhanced-rentals", "receptionist", "knowledge-base", "hospitality", "str"]
+      "keywords": ["enhanced-rentals", "atlas", "ai-colleague", "knowledge-base", "hospitality", "str", "operations"]
     }
   ]
 }
