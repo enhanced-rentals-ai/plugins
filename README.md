@@ -19,7 +19,7 @@ want, and you're set.
 Then set your workspace token once (ask your Enhanced Rentals contact for it):
 
 ```bash
-export ENHANCED_RENTALS_TOKEN=your_token_here
+export ENHANCED_RENTALS_MCP_TOKEN=your_token_here
 ```
 
 That's it — the plugin auto-connects to your workspace. Ask Atlas:
@@ -40,7 +40,7 @@ That's it — the plugin auto-connects to your workspace. Ask Atlas:
 
 Each plugin bundles everything it needs — the connection to your Enhanced Rentals
 workspace, the skills, and a guided agent — so installing it is all the setup there is.
-Your **token lives only in your own environment** (`ENHANCED_RENTALS_TOKEN`), never in
+Your **token lives only in your own environment** (`ENHANCED_RENTALS_MCP_TOKEN`), never in
 this repo, and only ever reaches your own workspace.
 
 ## What these tools won't touch

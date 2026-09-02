@@ -19,7 +19,7 @@ workspace token. One token = your workspace only. Ask your Enhanced Rentals cont
 you don't have it, then set it before launching Claude Code:
 
 ```bash
-export ENHANCED_RENTALS_TOKEN=your_token_here
+export ENHANCED_RENTALS_MCP_TOKEN=your_token_here
 ```
 
 To keep it set, add that line to your `~/.zshrc` or `~/.bashrc`.
@@ -54,5 +54,5 @@ and it'll tell you to email your contact for those.
 
 ## Troubleshooting
 
-**"Not connected" / auth error** — check your token is set: `echo $ENHANCED_RENTALS_TOKEN`,
+**"Not connected" / auth error** — check your token is set: `echo $ENHANCED_RENTALS_MCP_TOKEN`,
 then restart Claude Code. Ask your contact for a fresh token if needed.
