@@ -1,0 +1,23 @@
+{
+  "name": "enhanced-rentals",
+  "displayName": "Enhanced Rentals",
+  "owner": {
+    "name": "Enhanced Rentals",
+    "url": "https://enhancedrentals.com"
+  },
+  "description": "Self-serve Claude Code plugins for Enhanced Rentals customers — manage your AI receptionist and workspace yourself, in plain English.",
+  "plugins": [
+    {
+      "name": "receptionist",
+      "source": "./plugins/receptionist",
+      "displayName": "AI Receptionist Manager",
+      "description": "Teach your Enhanced Rentals AI receptionist new facts and keep its knowledge base accurate — amenities, parking, WiFi, check-in times, house rules, local tips.",
+      "version": "0.1.0",
+      "author": { "name": "Enhanced Rentals" },
+      "homepage": "https://github.com/enhanced-rentals-ai/plugins",
+      "repository": "https://github.com/enhanced-rentals-ai/plugins",
+      "license": "MIT",
+      "keywords": ["enhanced-rentals", "receptionist", "knowledge-base", "hospitality", "str"]
+    }
+  ]
+}

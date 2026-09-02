@@ -1,0 +1,10 @@
+{
+  "name": "receptionist",
+  "displayName": "AI Receptionist Manager",
+  "version": "0.1.0",
+  "description": "Manage your Enhanced Rentals AI receptionist yourself — teach it new facts and keep its knowledge base accurate.",
+  "author": { "name": "Enhanced Rentals", "url": "https://enhancedrentals.com" },
+  "homepage": "https://github.com/enhanced-rentals-ai/plugins#receptionist",
+  "repository": "https://github.com/enhanced-rentals-ai/plugins",
+  "license": "MIT"
+}

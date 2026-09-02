@@ -1,0 +1,4 @@
+# Never commit a real token
+.mcp.json
+.env
+*.local
